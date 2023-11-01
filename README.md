@@ -6,3 +6,4 @@ This is group 3's group project
 | First Name    | Last Name     | CT State Email Address  | Phone Number (optional) |
 |     :---:     |     :---:     |          :---:          |          :---:          |
 | Derek         | Calabro       | dcala0004@mail.ct.edu   | (860) 612-9111          |
+| Zachary       | Lariccia      | zlari0001@mail.ct.edu   | (860) 480-7524          |
