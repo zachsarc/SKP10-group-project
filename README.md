@@ -9,4 +9,4 @@ This is group 3's group project
 | Zachary       | Lariccia      | zlari0001@mail.ct.edu   | (860) 480-7524          |
 | Sean          | Salamida      | ssala0029@mail.ct.edu   | (860) 759-4210          | 
 | Shawn         | Barclay       | sbarc0007@mail.ct.edu   | (203) 631-5562          |
-
+| Ace           | Straynj       | amaso0033@mail.ct.edu   | (203) 826-4216          |
