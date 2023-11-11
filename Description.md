@@ -66,7 +66,7 @@ A. Developer
 B. Lead Developer, Reviewer
 
 
-C. Submitter - Zachary Lariccia
+C. Submitter
 
 
 D. Journaler
