@@ -66,7 +66,7 @@ A. Developer
 B. Lead Developer, Reviewer
 
 
-C. Submitter
+C. Submitter - Zachary Lariccia
 
 
 D. Journaler
@@ -84,7 +84,7 @@ A 2023-10-31
 B 2023-11-01
 
 
-C 2023-11-02
+C 2023-11-11
 
 
 D 2023-11-02
