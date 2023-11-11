@@ -16,7 +16,7 @@ The ToDo list allows multiple users in different locations to access and manage 
 ### Add to the ToDo list
 
 
-This allows the ToDo list to be populated. Each item should have a free text field to describe the item, a text field to indicate the owner of the teask, and a time-date file for when the item is to be done (the deadline). The task owner may be entered blank.
+This allows the ToDo list to be populated. Each item should have a free text field to describe the item, a text field to indicate the owner of the task, and a time-date file for when the item is to be done (the deadline). The task owner may be entered blank.
 
 
 ### Take ownership of the item
