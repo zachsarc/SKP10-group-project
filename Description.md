@@ -1,93 +1,37 @@
 # Description
-
-
-This application makes a shared TODO list.
-
+Description
 
 ## Overview
-
-
-The ToDo list allows multiple users in different locations to access and manage a simple list of tasks.
-
+Overview
 
 ## Functions
+### Function 1
+Function 1 Description
 
-
-### Add to the ToDo list
-
-
-This allows the ToDo list to be populated. Each item should have a free text field to describe the item, a text field to indicate the owner of the task, and a time-date file for when the item is to be done (the deadline). The task owner may be entered blank.
-
-
-### Take ownership of the item
-
-
-This allows someone to take ownership of an item in the ToDo list.
-
-
-### Mark and item as DONE
-
-
-This allows the owner of the item to mark it as DONE.
-
+### Function 2
+Function 1 Description
 
 ## Design
+### Design 1
+Design 1 Description
 
-### New items
-
-
-New items are shown in green text.
-
-
-### Done items
-
-
-Done items are shown in grey, struck-out text.
-
-
-### Owned items
-
-
-If the current user is the owner of the item, then this item is shown in bold yellow.
-
-
-### Errors
-
-
-Errors are the only things that use the color red.
-
+### Design 2
+Design 2 Description
 
 ## Team Roles
-
-
-A. Developer
-
-
-B. Lead Developer, Reviewer
-
-
-C. Submitter
-
-
-D. Journaler
-
-
-E. Developer, Reviewer
-
+| Role           | Name             |
+| :---           | :---             |
+| Lead Developer | Derek Calabro    |
+| Developer      |                  |
+| Submitter      |                  |
+| Journaler      |                  |
+| Reviewer       |                  |
 
 ## Agreed
-
-
-A 2023-10-31
-
-
-B 2023-11-01
-
-
-C 2023-11-11
-
-
-D 2023-11-02
-
-
-E 2023-11-02
+| Name             | Date Agreed |
+| :---             | :---        |
+| Derek Calabro    | 2023-11-    |
+| Zachary Lariccia | 2023-11-    |
+| Sean Salamida    | 2023-11-    |
+| Shawn Barclay    | 2023-11-    |
+| Ace Straynj      | 2023-11-    |
