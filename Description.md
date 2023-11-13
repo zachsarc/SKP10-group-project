@@ -23,7 +23,7 @@ Design 2 Description
 | :---           | :---             |
 | Lead Developer | Derek Calabro    |
 | Developer      |                  |
-| Submitter      |                  |
+| Submitter      | Shawn Barclay    |
 | Journaler      |                  |
 | Reviewer       |                  |
 
