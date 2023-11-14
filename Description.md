@@ -11,12 +11,16 @@ Function 1 Description
 ### Function 2
 Function 1 Description
 
+## Function 3
+
 ## Design
 ### Design 1
 Design 1 Description
 
 ### Design 2
 Design 2 Description
+
+## Design 3
 
 ## Team Roles
 | Role           | Name             |
