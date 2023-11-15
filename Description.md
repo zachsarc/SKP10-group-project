@@ -42,5 +42,5 @@ The drop down box to select ciphers will be in between the user input and encryp
 | Derek Calabro    | 2023-11-14  |
 | Zachary Lariccia | 2023-11-    |
 | Sean Salamida    | 2023-11-14  |
-| Shawn Barclay    | 2023-11-    |
+| Shawn Barclay    | 2023-11-14  |
 | Ace Straynj      | 2023-11-14  |
