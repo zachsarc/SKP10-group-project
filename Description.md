@@ -12,7 +12,7 @@ This turns whatever the user inputs into a text field into a string.
 This allows users to select from an assortment of Caeser Ciphers (rot1-25) in drop down menu and apply that cipher to their input.
 
 ## Apply cipher
-This makes it so the cipher to user chose is applied to their string input.
+This makes it so the cipher the user chose is applied to their string input.
 
 ## Return encrypted output
 This returns the encrypted output into a text field for the user to copy and paste.
