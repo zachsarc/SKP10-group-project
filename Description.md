@@ -34,7 +34,7 @@ The drop down box to select ciphers will be in between the user input and encryp
 | Developer      | Ace Straynj, Zachary Lariccia      |
 | Submitter      | Shawn Barclay    |
 | Journaler      | Sean Salamida    |
-| Reviewer       | Sean Salamida, Zachary Lariccia    |
+| Reviewer       | Sean Salamida, Zachary Lariccia, Shawn Barclay   |
 
 ## Agreed
 | Name             | Date Agreed |
