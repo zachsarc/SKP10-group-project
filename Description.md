@@ -37,7 +37,7 @@ name.
 | Lead Developer | Derek Calabro    |
 | Developer      |                  |
 | Submitter      | Shawn Barclay    |
-| Journaler      | Sean Salamida    |
+| Journaler      | Sean Salamida              |
 | Reviewer       |                  |
 
 ## Agreed
@@ -45,6 +45,6 @@ name.
 | :---             | :---        |
 | Derek Calabro    | 2023-11-    |
 | Zachary Lariccia | 2023-11-    |
-| Sean Salamida    | 2023-11-    |
+| Sean Salamida    | 2023-11-14  |
 | Shawn Barclay    | 2023-11-    |
 | Ace Straynj      | 2023-11-    |
