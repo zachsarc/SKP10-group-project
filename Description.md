@@ -38,7 +38,7 @@ name.
 | Developer      |                  |
 | Submitter      | Shawn Barclay    |
 | Journaler      | Sean Salamida    |
-| Reviewer       |                  |
+| Reviewer       | Sean Salamida    |
 
 ## Agreed
 | Name             | Date Agreed |
