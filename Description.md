@@ -34,13 +34,13 @@ The drop down box to select ciphers will be in between the user input and encryp
 | Developer      |                  |
 | Submitter      | Shawn Barclay    |
 | Journaler      | Sean Salamida    |
-| Reviewer       |                  |
+| Reviewer       | Sean Salamida    |
 
 ## Agreed
 | Name             | Date Agreed |
 | :---             | :---        |
 | Derek Calabro    | 2023-11-    |
 | Zachary Lariccia | 2023-11-    |
-| Sean Salamida    | 2023-11-    |
+| Sean Salamida    | 2023-11-14  |
 | Shawn Barclay    | 2023-11-    |
 | Ace Straynj      | 2023-11-    |
