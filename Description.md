@@ -31,16 +31,16 @@ The drop down box to select ciphers will be in between the user input and encryp
 | Role           | Name             |
 | :---           | :---             |
 | Lead Developer | Derek Calabro    |
-| Developer      | Ace Straynj      |
+| Developer      | Ace Straynj, Zachary Lariccia      |
 | Submitter      | Shawn Barclay    |
 | Journaler      | Sean Salamida    |
-| Reviewer       | Sean Salamida    |
+| Reviewer       | Sean Salamida, Zachary Lariccia    |
 
 ## Agreed
 | Name             | Date Agreed |
 | :---             | :---        |
 | Derek Calabro    | 2023-11-14  |
-| Zachary Lariccia | 2023-11-    |
+| Zachary Lariccia | 2023-11-14  |
 | Sean Salamida    | 2023-11-14  |
 | Shawn Barclay    | 2023-11-14  |
 | Ace Straynj      | 2023-11-14  |
