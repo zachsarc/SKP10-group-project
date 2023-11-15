@@ -1,17 +1,22 @@
 # Description
-Description
+This application encrypts an input with different Caesar ciphers.
 
 ## Overview
-Overview
+The application encrypts a string input by the user with the selected cipher and then returns the output in a separate textbox. The application will default to the popular cipher rot13.
 
 ## Functions
-### Function 1
-Function 1 Description
+### Read user input 
+This turns whatever the user inputs into a text field into a string. 
 
-### Function 2
-Function 1 Description
+### Select a cipher
+This allows users to select from an assortment of Caeser Ciphers (rot1-25) in drop down menu and apply that cipher to their input.
 
-## Function 3
+## Apply cipher
+This makes it so the cipher to user chose is applied to their string input.
+
+## Return encrypted output
+This returns the encrypted output into a text field for the user to copy and paste.
+
 
 ## Design
 ### Design 1
