@@ -37,7 +37,7 @@ name.
 | Lead Developer | Derek Calabro    |
 | Developer      |                  |
 | Submitter      | Shawn Barclay    |
-| Journaler      | Sean Salamida              |
+| Journaler      | Sean Salamida    |
 | Reviewer       |                  |
 
 ## Agreed
