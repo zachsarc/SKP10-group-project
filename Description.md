@@ -39,7 +39,7 @@ The drop down box to select ciphers will be in between the user input and encryp
 ## Agreed
 | Name             | Date Agreed |
 | :---             | :---        |
-| Derek Calabro    | 2023-11-    |
+| Derek Calabro    | 2023-11-14  |
 | Zachary Lariccia | 2023-11-    |
 | Sean Salamida    | 2023-11-14  |
 | Shawn Barclay    | 2023-11-    |
