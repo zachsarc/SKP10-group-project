@@ -19,17 +19,13 @@ This returns the encrypted output into a text field for the user to copy and pas
 
 ## Design
 ### User input
-The text field for user input will be in large labelled box above the cipher selector. This will make it easy to read long inputs (like a copypasta). This field will 
-use black text on a white background for ease of visibility.
+The text field for user input will be in large labelled box above the cipher selector. This will make it easy to read long inputs (like a copypasta). This field will use black text on a white background for ease of visibility.
 
 ### Encrypted output
-The text field for encrypted output will be equally large to the user input box but placed under the cipher selector. This field will use black text on a white 
-background for ease of visibility.
+The text field for encrypted output will be equally large to the user input box but placed under the cipher selector. This field will use black text on a white background for ease of visibility.
 
-
-## Cipher Selector
-The drop down box to select ciphers will be in between the user input and encrypted output fields and will be a small size just big enough to fit the longest cipher 
-name.
+### Cipher Selector
+The drop down box to select ciphers will be in between the user input and encrypted output fields and will be a small size just big enough to fit the longest cipher name.
 
 ## Team Roles
 | Role           | Name             |
