@@ -1,68 +1,62 @@
 # HTML Style Guide:
-Indentation:
-
-Use 2 or 4 spaces for indentation.
+Indentation: Use 2 or 4 spaces for indentation.
 Be consistent with your choice of indentation.
-HTML Document Structure:
 
-Use a proper doctype declaration: <!DOCTYPE html>.
-Include a <html>, <head>, and <body> section.
+## HTML Document Structure:
+Use a proper doctype declaration: !DOCTYPE html. <!--<DOCTYPE html>-->
+Include an html, head, and body section. <!--<html>, <head>, <body>-->
 Use lowercase tags and attributes.
-Attribute Order:
 
+## Attribute Order:
 Keep attributes in a consistent order for better readability.
 Common order: class, id, name, src, alt, href, data-*, etc.
-Self-Closing Tags:
 
-Use self-closing tags for empty elements (e.g., <img />, <br />).
-Comments:
+## Self-Closing Tags:
+Use self-closing tags for empty elements (e.g., img , br ). <!--(e.g., <img />, <br />)-->
 
+## Comments:
 Comment your code to explain complex parts or to provide context.
-Use <!-- comment --> for HTML comments.
+Use <!-- comment --> for HTML comments. <!-- comment -->
 
-#CSS Style Guide:
-Indentation:
-
-Use 2 or 4 spaces for indentation.
+# CSS Style Guide:
+Indentation: Use 2 or 4 spaces for indentation.
 Be consistent with your choice of indentation.
-Selector Naming:
 
+## Selector Naming:
 Use meaningful and clear names for selectors.
 Avoid using overly complex selectors to maintain readability.
-Property Order:
 
+## Property Order:
 Keep related properties grouped together.
 Common order: Positioning, Box model, Typographic, Visual, Animation.
-Consistent Casing:
 
+## Consistent Casing:
 Use lowercase for property names and values.
 Avoid unnecessary shorthand properties.
-Comments:
 
+## Comments:
 Comment sections of your CSS for better organization.
 Use /* comment */ for CSS comments.
 
-#JavaScript Style Guide:
-Indentation:
+# JavaScript Style Guide:
 
+## Indentation:
 Use 2 or 4 spaces for indentation.
 Be consistent with your choice of indentation.
-Variable Naming:
 
-Use meaningful and descriptive names for variables.
+## Variable Naming:
+se meaningful and descriptive names for variables.
 Follow camelCase convention for variables (e.g., myVariable).
-Function Declarations:
 
-Use named function expressions for better stack traces.
+## Function Declarations: Use named function expressions for better stack traces.
 Declare functions before they are used for improved readability.
-Consistent Casing:
 
-Use camelCase for functions and variables.
+## Consistent Casing: Use camelCase for functions and variables.
 Use PascalCase for constructor functions or classes.
-Comments:
 
+## Comments:
 Add comments to explain complex sections of code or to provide context.
 Use // for single-line comments and /* */ for multi-line comments.
-Avoid Global Variables:
 
+## void Global Variables:
 Minimize the use of global variables to prevent naming conflicts.
