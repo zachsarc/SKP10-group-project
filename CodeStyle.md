@@ -67,5 +67,5 @@ Minimize the use of global variables to prevent naming conflicts.
 | Derek Calabro    | 2023-11-    |
 | Zachary Lariccia | 2023-11-    |
 | Sean Salamida    | 2023-11-21  |
-| Shawn Barclay    | 2023-11-    |
+| Shawn Barclay    | 2023-11-21  |
 | Ace Straynj      | 2023-11-    |
