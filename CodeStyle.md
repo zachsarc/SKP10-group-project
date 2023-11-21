@@ -45,7 +45,7 @@ Use 2 or 4 spaces for indentation.
 Be consistent with your choice of indentation.
 
 ## Variable Naming:
-se meaningful and descriptive names for variables.
+Use meaningful and descriptive names for variables.
 Follow camelCase convention for variables (e.g., myVariable).
 
 ## Function Declarations: Use named function expressions for better stack traces.
