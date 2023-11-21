@@ -60,3 +60,12 @@ Use // for single-line comments and /* */ for multi-line comments.
 
 ## void Global Variables:
 Minimize the use of global variables to prevent naming conflicts.
+
+## Agreed
+| Name             | Date Agreed |
+| :---             | :---        |
+| Derek Calabro    | 2023-11-    |
+| Zachary Lariccia | 2023-11-    |
+| Sean Salamida    | 2023-11-21  |
+| Shawn Barclay    | 2023-11-    |
+| Ace Straynj      | 2023-11-    |
