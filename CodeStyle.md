@@ -65,7 +65,7 @@ Minimize the use of global variables to prevent naming conflicts.
 | Name             | Date Agreed |
 | :---             | :---        |
 | Derek Calabro    | 2023-11-    |
-| Zachary Lariccia | 2023-11-    |
+| Zachary Lariccia | 2023-11-21  |
 | Sean Salamida    | 2023-11-21  |
 | Shawn Barclay    | 2023-11-21  |
 | Ace Straynj      | 2023-11-    |
