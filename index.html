@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="keywords" content="SKP10, encryptor" />
     <link rel="stylesheet" href="styles.css" />
-    <script src="/skp10." defer></script>
+    <script src="skp10.js" defer></script>
 </head>
 <body>
 
@@ -17,13 +17,13 @@
 <noscript><p><span class="warning"><em>Please enable JavaScript to use this page.</em></span></p></noscript>
 
 <div id="container">
-    <div id="input"><p><textarea id="input" cols="80" rows="12" autofocus placeholder="Enter Your Message to Be Encrypted"></textarea></p></div>
+    <div id="inputContainer"><p><textarea id="input" cols="80" rows="12" autofocus placeholder="Enter Your Message to Be Encrypted" oninput="updateOutput()"></textarea></p></div>
     <p class="arrow">↓</p>
-    <p><select id="skp" onchange="readInput()">
+    <p><select id="skp">
         <option value="1">SKP10</option>
     </select></p>
     <p class="arrow">↓</p>
-    <div id="output"><p><textarea id="output" cols="80" rows="12" readonly placeholder="Your Message ENCRYPTED using SKP"></textarea></p></div>
+    <div id="outputContainer"><p><textarea id="output" cols="80" rows="12" readonly placeholder="Your Message ENCRYPTED using SKP"></textarea></p></div>
 </div>
 </body>
 </html>
