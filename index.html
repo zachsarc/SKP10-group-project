@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>SKP10</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="SKP10.js"></script>
+</head>
+<body>
+
+<h1>SKP10</h1>
+<h2><a href="">☠︎︎You Know Nothing☠︎︎</a></h2>
+
+<noscript><p><span class="warning"><em>Please enable JavaScript to use this page.</em></span></p></noscript>
+
+<p><textarea id="input" cols="80" rows="12" onkeyup="update()" onchange="update()" autofocus></textarea></p>
+
+<p class="arrow">↓</p>
+
+<p><select id="rot" onchange="update()">
+    <option value="1">ROT1</option>
+    <option value="2">ROT2</option>
+    <!-- Add more ROT options as needed -->
+    <option value="13" selected>ROT13</option>
+    <!-- Add more ROT options as needed -->
+</select></p>
+
+<p class="arrow">↓</p>
+
+<p><textarea id="output" cols="80" rows="12" readonly></textarea></p>
+
+</body>
+</html>
