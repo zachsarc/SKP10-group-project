@@ -1,0 +1,63 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set body background color */
+body {
+    background-color: #1a1a1a;
+    color: #ff0000 opacity: 0.5;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Set heading styles */
+h1, h2, h3 {
+    font-family: 'Creepster', cursive;
+    color: #ff6600;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Set paragraph styles */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+/* Set link styles */
+a {
+    color: #ff6600;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Set button styles */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff6600;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #ff3300;
+}
+
+#input {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff6600;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
