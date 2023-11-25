@@ -8,7 +8,7 @@
 /* Set body background color */
 body {
     background-color: #1a1a1a;
-    color: #ff0000 opacity: 0.5;
+    color: #ff0000;
     font-family: 'Arial', sans-serif;
 }
 
@@ -27,16 +27,6 @@ p {
     margin-bottom: 10px;
 }
 
-/* Set link styles */
-a {
-    color: #ff6600;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
 /* Set button styles */
 .button {
     display: inline-block;
@@ -52,12 +42,27 @@ a:hover {
     background-color: #ff3300;
 }
 
-#input {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #ff6600;
-    color: #ffffff;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
+
+/* Set container styles */
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+
+#input{
+    background-color: #ff6600;
+    cursor: text;
+}
+
+#output{
+    background-color: black;
+    cursor: none;
+    text-decoration-color: #ffffff;
+}
+
+.arrow {
+    color: #ff6600;
+}
+
