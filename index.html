@@ -2,14 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <title>SKP10</title>
+    <title>SKP10 Encryptor</title>
+    <meta name="description" content="SKP10 Encryptor" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="SKP10, encryptor" />
     <link rel="stylesheet" href="style.css" />
     <script src="SKP10.js"></script>
 </head>
 <body>
 
 <h1>SKP10</h1>
-<h2><a href="">☠︎︎You Know Nothing☠︎︎</a></h2>
+<h2 id="subtext"> ☠︎︎You Know Nothing☠︎︎</a></h2>
 
 <noscript><p><span class="warning"><em>Please enable JavaScript to use this page.</em></span></p></noscript>
 
@@ -17,12 +20,8 @@
 
 <p class="arrow">↓</p>
 
-<p><select id="rot" onchange="update()">
-    <option value="1">ROT1</option>
-    <option value="2">ROT2</option>
-    <!-- Add more ROT options as needed -->
-    <option value="13" selected>ROT13</option>
-    <!-- Add more ROT options as needed -->
+<p><select id="skp" onchange="update()">
+    <option value="1">SKP10</option>
 </select></p>
 
 <p class="arrow">↓</p>
