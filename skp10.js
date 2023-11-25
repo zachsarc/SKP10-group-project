@@ -55,3 +55,19 @@ function skpAlgorithm(inputValue) {
     //Write the encrypted result to the output
     writeOutput(encryptedResult);
 }
+
+/*In the ASCII standard:
+
+Each character is represented by a unique numeric code.
+The codes are integers in the range 0 to 127.
+The codes 0 to 31 are control characters 
+(non-printable characters), and codes 32 to 127 represent 
+printable characters, which include the standard English 
+alphabet, numerals, punctuation marks, and some special 
+characters.
+For example:
+
+The ASCII code for the uppercase letter 'A' is 65.
+The ASCII code for the lowercase letter 'a' is 97.
+The ASCII code for the digit '0' is 48.
+The ASCII code for the space character is 32.*/
