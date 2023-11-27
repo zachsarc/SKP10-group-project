@@ -1,0 +1,14 @@
+{
+  "name": "skp10-test",
+  "version": "1.0.0",
+  "description": "html_testing",
+  "main": "skp.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Zach. Lariccia",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
