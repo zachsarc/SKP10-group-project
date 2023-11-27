@@ -30,7 +30,7 @@ test('Has opening and closing head tag', () => {
 test('Has <meta charset="utf-8">', () => {
   const filename = 'index.html'; // make sure the HTML file is named index.html
   const fileContent = fs.readFileSync(filename, 'utf8');
-  expect(fileContent).toMatch(/<meta charset="utf-8">/);
+  expect(fileContent).toMatch(/<meta charset="utf-8"\s*\/?>/);
 });
 
 test('Has opening and closing title tag', () => {
