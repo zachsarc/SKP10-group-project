@@ -64,25 +64,37 @@ function decodeAlgorithm(inputValue) {
     //read Input Value
     var inputValue = readInput();
 
+    //empty result string
     var decryptedResult = "";
 
+    //first loop sets a number from 1-25
     for (var i=1; i<26; i++) {
+        //second loop functions the same as the other one, reading the input and going through each character
         for (var j=0; j<inputValue.length; j++) {
-            var currentChar = inputValue[I];
+            //set a current character
+            var currentChar = inputValue[j];
 
-            If (currentChar.match(/[a-zA-Z]/)) {
+            //check for letters
+            if (currentChar.match(/[a-zA-Z]/)) {
+                //get the casing
                 var isUpperCase = currentChar === currentChar.toUpperCase();
-                Var charCode = currentChar.charCodeAt(0);
+                //convert to the char code
+                var charCode = currentChar.charCodeAt(0);
+                //shift the letter based on the current outside loop number
                 charCode = isUpperCase ? ((charCode - 65 + i) % 26) + 65 : ((charCode - 97 + i) % 26) + 97;
-                Var decryptedChar = String.fromCharCode(charCode);
+                //bring it back to a character
+                var decryptedChar = String.fromCharCode(charCode);
+                //add the result to the end of the string
                 decryptedResult += isUpperCase ? decryptedChar.toUpperCase() : decryptedChar.toLowerCase();
             } else {
-            decryptedResult += currentChar;
+                //checks for spaces or punctuation and just leaves it
+                decryptedResult += currentChar;
             }
         }
-    decryptedResult += "\n\n";
+        //at the end of the outer loop it makes a two line space between iterations
+        decryptedResult += "\n\n";
     }
-
+    //write the output
     writeOutput(decryptedResult);
 }
             
