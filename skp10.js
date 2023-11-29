@@ -10,7 +10,11 @@ outputElement.innerHTML = outputValue;
 }
 
 function updateOutput() {
-skpAlgorithm();
+    if (document.getElementById("skp") == 1) {
+        skpAlgorithm();
+    } else {
+        decodeAlgorithm();
+    }
 }
 
 function skpAlgorithm(inputValue) {
@@ -55,6 +59,34 @@ function skpAlgorithm(inputValue) {
     //Write the encrypted result to the output
     writeOutput(encryptedResult);
 }
+
+function decodeAlgorithm(inputValue) {
+    //read Input Value
+    var inputValue = readInput();
+
+    var decryptedResult = "";
+
+    for (var i=1; i<26; i++) {
+        for (var j=0; j<inputValue.length; j++) {
+            var currentChar = inputValue[I];
+
+            If (currentChar.match(/[a-zA-Z]/)) {
+                var isUpperCase = currentChar === currentChar.toUpperCase();
+                Var charCode = currentChar.charCodeAt(0);
+                charCode = isUpperCase ? ((charCode - 65 + i) % 26) + 65 : ((charCode - 97 + i) % 26) + 97;
+                Var decryptedChar = String.fromCharCode(charCode);
+                decryptedResult += isUpperCase ? decryptedChar.toUpperCase() : decryptedChar.toLowerCase();
+            } else {
+            decryptedResult += currentChar;
+            }
+        }
+    decryptedResult += "\n\n";
+    }
+
+    writeOutput(decryptedResult);
+}
+            
+
 
 /*In the ASCII standard:
 
