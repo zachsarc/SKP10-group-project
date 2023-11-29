@@ -10,7 +10,7 @@ outputElement.innerHTML = outputValue;
 }
 
 function updateOutput() {
-    if (document.getElementById("skp") == 1) {
+    if (document.getElementById("skp") == "1") {
         skpAlgorithm();
     } else {
         decodeAlgorithm();
